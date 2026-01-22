@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+confluent-kafka
+qdrant-client
+neo4j
+simpy
+sentence-transformers
+numpy
+python-dotenv
